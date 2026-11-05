@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430">
+<rect width="1000" height="430" rx="22" fill="#edf5f2"/>
+<g font-family="DejaVu Sans, sans-serif">
+<text x="30" y="54" font-size="32" text-anchor="start" fill="#18303b">A long gap hides an 11 ms pulse</text>
+<text x="30" y="94" font-size="25" text-anchor="start" fill="#18303b">The first pulse falls between the 10 and 24 ms reads.</text>
+<path d="M235 125 V347" stroke="#90a6aa" stroke-width="2" stroke-dasharray="5 7"/>
+<text x="235" y="382" font-size="24" text-anchor="middle" fill="#18303b">0</text>
+<path d="M395 125 V347" stroke="#90a6aa" stroke-width="2" stroke-dasharray="5 7"/>
+<text x="395" y="382" font-size="24" text-anchor="middle" fill="#18303b">10</text>
+<path d="M620 125 V347" stroke="#90a6aa" stroke-width="2" stroke-dasharray="5 7"/>
+<text x="620" y="382" font-size="24" text-anchor="middle" fill="#18303b">24</text>
+<path d="M780 125 V347" stroke="#90a6aa" stroke-width="2" stroke-dasharray="5 7"/>
+<text x="780" y="382" font-size="24" text-anchor="middle" fill="#18303b">34</text>
+<path d="M940 125 V347" stroke="#90a6aa" stroke-width="2" stroke-dasharray="5 7"/>
+<text x="940" y="382" font-size="24" text-anchor="middle" fill="#18303b">44</text>
+<text x="30" y="164" font-size="25" text-anchor="start" fill="#18303b">Physical input</text>
+<text x="30" y="244" font-size="25" text-anchor="start" fill="#18303b">Input image</text>
+<text x="30" y="324" font-size="25" text-anchor="start" fill="#18303b">Applied output</text>
+<text x="30" y="382" font-size="24" text-anchor="start" fill="#18303b">Time (ms)</text>
+<path d="M235 175 H940" stroke="#788b92" stroke-width="2"/>
+<path d="M411 175 V139 H588 V175" fill="none" stroke="#9c451d" stroke-width="5" stroke-linejoin="round"/>
+<path d="M668 175 V139 H828 V175" fill="none" stroke="#9c451d" stroke-width="5" stroke-linejoin="round"/>
+<path d="M235 255 H940" stroke="#788b92" stroke-width="2"/>
+<path d="M780 255 V219 H940 V255" fill="none" stroke="#087d7f" stroke-width="5" stroke-linejoin="round"/>
+<path d="M235 335 H940" stroke="#788b92" stroke-width="2"/>
+<path d="M940 335 V299" stroke="#4554a2" stroke-width="5"/>
+<circle cx="940" cy="299" r="6" fill="#4554a2"/>
+<circle cx="235" cy="255" r="7" fill="#edf5f2" stroke="#087d7f" stroke-width="3"/>
+<circle cx="395" cy="255" r="7" fill="#edf5f2" stroke="#087d7f" stroke-width="3"/>
+<circle cx="620" cy="255" r="7" fill="#edf5f2" stroke="#087d7f" stroke-width="3"/>
+<circle cx="780" cy="219" r="7" fill="#087d7f" stroke="#087d7f" stroke-width="3"/>
+<circle cx="940" cy="255" r="7" fill="#edf5f2" stroke="#087d7f" stroke-width="3"/>
+</g>
+</svg>
